@@ -57,4 +57,5 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/jNHH7XPbgG"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:heitordbw2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/HeitorWestphal/HeitorWestphal/blob/output/github-contribution-grid-snake.svg)
+  </div>
+  
