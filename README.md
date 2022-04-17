@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 -  🌱 I’m currently learning JAVA
 -  😄 Pronouns: Ele/dele
 -  ✉️ contact me in e-mail: heitordbw2006@gmail.com/heitor_westphal@estudante.sesisenai.org.br  
-
+##
 ![HeitorWestphal's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorWestphal&show_icons=true&theme=tokyonight)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeitorWestphal&repo=Portifolio&show_icons=true&theme=tokyonight)](https://github.com/HeitorWestphal/Portifolio)                           
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorWestphal&show_icons=true&theme=tokyonight)](https://github.com/HeitorWestphal/github-readme-stats)    
-
+##
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Heitor-After" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
