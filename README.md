@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ##
 ![HeitorWestphal's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorWestphal&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeitorWestphal&repo=Portifolio&show_icons=true&theme=tokyonight)](https://github.com/HeitorWestphal/Portifolio)                           
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeitorWestphal&repo=Portfolio&show_icons=true&theme=tokyonight)](https://github.com/HeitorWestphal/Portfolio)                           
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorWestphal&show_icons=true&theme=tokyonight)](https://github.com/HeitorWestphal/github-readme-stats)    
 ##
