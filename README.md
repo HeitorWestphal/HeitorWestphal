@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -  🎮 Gamer
 -  🌱 I’m currently learning JAVA
 -  😄 Pronouns: Ele/dele
--  ✉️ contact me in e-mail: heitordbw2006@gmail.com/heitor_westphal@estudante.sesisenai.org.br  
+-  ✉️ contact me in e-mail: heitordbw2006@gmail.com / heitor_westphal@estudante.sesisenai.org.br  
 ##
 ![HeitorWestphal's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorWestphal&show_icons=true&theme=tokyonight)
 
