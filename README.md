@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -  🎮 Gamer
 -  🌱 I’m currently learning JAVA
 -  😄 Pronouns: Ele/dele
+-  👶 15y
 -  ✉️ contact me in e-mail: heitordbw2006@gmail.com / heitor_westphal@estudante.sesisenai.org.br  
 
 ##
