@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 - 🤨 Ta olhando oq?
+-  🆕Account
 -  🔭 Student
 -  🎮 Gamer
 -  🌱 I’m currently learning JAVA
