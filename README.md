@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 
 ##
 
+### <center>Certificados:</center>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Heitor-After" height="80" width="100" src="https://user-images.githubusercontent.com/102591958/163714174-e808461a-f736-44b0-81ee-9e4c5b7cad82.png">
