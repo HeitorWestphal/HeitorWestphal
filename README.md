@@ -6,7 +6,7 @@
 -  🎮 Gamer
 -  🌱 I’m currently learning JAVA
 -  😄 Pronouns: Ele/dele
--  👶 15y
+-  👶 16y
 -  ✉️ contact me in e-mail: heitordbw2006@gmail.com / heitor_westphal@estudante.sesisenai.org.br  
 
 ##
