@@ -8,7 +8,6 @@
 </div>
 
 ## About Me:
--  😄 Pronouns: He/Him
 -  👶 17y
 -  🔭 Student
 -  🌱 I’m currently learning JAVA
