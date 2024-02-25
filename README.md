@@ -8,17 +8,43 @@
 </div>
 
 ## About Me:
+-  😄 Pronouns: Ele/dele
+-  👶 17y
 -  🔭 Student
 -  🌱 I’m currently learning JAVA
--  😄 Pronouns: Ele/dele
--  👶 17y 
+-  🔧 Developing AI projects
+-  🤖 Robotiquer
+-  🧪 Scientist
+-  💼 Search a job
 
-##
-![HeitorWestphal's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorWestphal&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeitorWestphal&repo=Portfolio&show_icons=true&theme=tokyonight)](https://github.com/HeitorWestphal/Portfolio)                           
+## F1 in Schools
+- 23º National 2023 / Best placed rookie team
+- 11º International 2023 / Best placed rookie team
+- 1º Regional 2024
+- (Coming Soon) National 2024
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorWestphal&show_icons=true&theme=tokyonight)](https://github.com/HeitorWestphal/github-readme-stats)    
+<div>
+  <div style="display: inline_block"><br>
+  <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/c18cef65-d348-4685-8506-2d8d1d707a27' width='500' height='290' >
+  <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/3a2f3b82-69f9-443d-a633-f2b4412a2da9' width='500' height='290' >
+  <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/bcb7fd95-7676-43f0-96a9-4067ff5842e1' width='500' height='450' >  
+  <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/3096e664-8155-4799-b142-37f4adbb1fbc' width='500' height='450' >
+
+</div>
+
+ ## Scientific Initiation
+ - 3º Engineering at Febic
+ - 1º Sustainability, technology and innovation at Febic
+ - Semi-finals Febrace 2023
+ - Finals Febrace 2024
+
+<div>
+  <div style="display: inline_block"><br>
+  <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/de7e96fe-96ae-4f9d-869b-3528c69f9141' width='1000'  >
+  <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/9598fe82-641b-457f-b25f-52b838194a36' width='1000'  >
+</div>
+
 ##
 </div>
 <div style="display: inline_block"><br>
@@ -56,14 +82,6 @@
   <img align="center" alt="Heitor-After" height="80" width="100" src="https://user-images.githubusercontent.com/102591958/163714630-30ab422e-8000-4f25-bfd0-adaea5bc43de.png">
   <img align="center" alt="Heitor-After" height="80" width="100" src="https://user-images.githubusercontent.com/102591958/163714654-ad7071cc-bc75-4140-b990-7d9a2fb79d4c.png">
  
-  ##
-  
-</div>
-<a href="https://www.instagram.com/heitorwestphal/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/v3lotrou_"_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/jNHH7XPbgG"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href = "mailto:heitordbw2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  </div>
-  
+## 
+
  ![Snake animation](https://github.com/HeitorWestphal/HeitorWestphal/blob/output/github-contribution-grid-snake.svg)
