@@ -8,7 +8,7 @@
 </div>
 
 ## About Me:
--  😄 Pronouns: Ele/dele
+-  😄 Pronouns: He/Him
 -  👶 17y
 -  🔭 Student
 -  🌱 I’m currently learning JAVA
