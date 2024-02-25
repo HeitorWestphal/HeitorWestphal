@@ -26,10 +26,10 @@
 
 <div>
   <div style="display: inline_block"><br>
-  <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/c18cef65-d348-4685-8506-2d8d1d707a27' width='500' height='290' >
-  <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/3a2f3b82-69f9-443d-a633-f2b4412a2da9' width='500' height='290' >
-  <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/bcb7fd95-7676-43f0-96a9-4067ff5842e1' width='500' height='450' >  
-  <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/3096e664-8155-4799-b142-37f4adbb1fbc' width='500' height='450' >
+  <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/c18cef65-d348-4685-8506-2d8d1d707a27' width='1000'  >
+  <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/3a2f3b82-69f9-443d-a633-f2b4412a2da9' width='1000'  >
+  <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/bcb7fd95-7676-43f0-96a9-4067ff5842e1' width='1000'  >  
+  <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/3096e664-8155-4799-b142-37f4adbb1fbc' width='1000'  >
 
 </div>
 
