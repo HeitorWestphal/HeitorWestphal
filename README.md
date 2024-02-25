@@ -1,13 +1,9 @@
 ### 👋 Hi there, I'm Heitor Westphal
 
-- 🤨 Ta olhando oq?
--  🆕Account
 -  🔭 Student
--  🎮 Gamer
 -  🌱 I’m currently learning JAVA
 -  😄 Pronouns: Ele/dele
--  👶 16y
--  ✉️ contact me in e-mail: heitordbw2006@gmail.com / heitor_westphal@estudante.sesisenai.org.br  
+-  👶 17y 
 
 ##
 ![HeitorWestphal's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorWestphal&show_icons=true&theme=tokyonight)
