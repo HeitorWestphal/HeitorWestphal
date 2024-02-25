@@ -1,5 +1,11 @@
 ### 👋 Hi there, I'm Heitor Westphal
 
+# Brazilian Back-end Developer
+<div>
+  <a href = "mailto:heitordbw2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+## About Me:
 -  🔭 Student
 -  🌱 I’m currently learning JAVA
 -  😄 Pronouns: Ele/dele
