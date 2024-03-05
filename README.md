@@ -21,7 +21,11 @@
 - 23º National 2023 / Best placed rookie team
 - 11º International 2023 / Best placed rookie team
 - 1º Regional 2024
-- 9° National 2024 
+- Best Scrutiny
+- Playoff Champion
+- 9° National 2024
+- Creative Thinking
+- Fastest Car
 
 <div>
   <div style="display: inline_block"><br>
