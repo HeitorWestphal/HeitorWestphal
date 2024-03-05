@@ -24,7 +24,7 @@
 - Best Scrutiny
 - Playoff Champion
 - 9° National 2024
-- Creative Thinking
+- Think Award
 - Fastest Car
 
 <div>
