@@ -33,10 +33,13 @@
   <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/3a2f3b82-69f9-443d-a633-f2b4412a2da9' width='1000'  >
   <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/bcb7fd95-7676-43f0-96a9-4067ff5842e1' width='1000'  >  
   <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/3096e664-8155-4799-b142-37f4adbb1fbc' width='1000'  >
+  <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/4be2b661-0b32-404a-be32-654afac00bd2' width='1000'  >
+  <img src='https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/77d5fbae-e5da-4459-a205-dbc23bcb9305' width='1000'  >
 
 </div>
 
  ## Scientific Initiation
+ - Finals Febic 2023
  - 3º Engineering at Febic
  - 1º Sustainability, technology and innovation at Febic
  - Semi-finals Febrace 2023
