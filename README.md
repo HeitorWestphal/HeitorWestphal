@@ -39,11 +39,11 @@
 </div>
 
  ## Scientific Initiation
- - Finals Febic 2023
+ - Febic Finals 2023
  - 3º Engineering at Febic
  - 1º Sustainability, technology and innovation at Febic
- - Semi-finals Febrace 2023
- - Finals Febrace 2024
+ - Febrace Semi-finals 2023
+ - Febrace Finals 2024
 
 <div>
   <div style="display: inline_block"><br>
