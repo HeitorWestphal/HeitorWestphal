@@ -15,7 +15,6 @@
 -  🤖 Robotiquer
 -  🧪 Scientist
 -  💼 Search a job
--  
 
 
 ## 🛠️ Languages and Tools
@@ -74,6 +73,7 @@
 - 9° National 2024
 - Think Award
 - Fastest Car
+- Winner of VII Festival de Vídeos Digitais e Educação Matemática
 
 
  ## Scientific Initiation
@@ -90,13 +90,18 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Heitor-IDoCode" height="80" width="100" src="https://user-images.githubusercontent.com/102591958/163714174-e808461a-f736-44b0-81ee-9e4c5b7cad82.png">
-   <img align="center" alt="Heitor-IdoCode" height="80" width="100" src="https://user-images.githubusercontent.com/102591958/163714405-1fec43e3-9417-4e50-83b7-602a48787939.png">
-  <img align="center" alt="Heitor-IDoCode" height="80" width="100" src="https://user-images.githubusercontent.com/102591958/163714502-c851a77b-2417-4281-8134-d2d9d33f77c6.png">
-  <img align="center" alt="Heitor-IdoCode" height="80" width="100" src="https://user-images.githubusercontent.com/102591958/163714522-bfa89267-0dd1-489f-97bc-033d303cad2b.png">
-  <img align="center" alt="Heitor-IDoCode" height="80" width="100" src="https://user-images.githubusercontent.com/102591958/163714599-e8bff774-43f6-494e-8cef-62e697dd9989.png">
-  <img align="center" alt="Heitor-IdoCode" height="80" width="100" src="https://user-images.githubusercontent.com/102591958/163714630-30ab422e-8000-4f25-bfd0-adaea5bc43de.png">
-  <img align="center" alt="Heitor-IDoCode" height="80" width="100" src="https://user-images.githubusercontent.com/102591958/163714654-ad7071cc-bc75-4140-b990-7d9a2fb79d4c.png">
+  <img align="center" alt="Heitor-IDoCode" height="200" width="240" src="https://user-images.githubusercontent.com/102591958/163714174-e808461a-f736-44b0-81ee-9e4c5b7cad82.png">
+  <img align="center" alt="Heitor-IdoCode" height="200" width="240" src="https://user-images.githubusercontent.com/102591958/163714405-1fec43e3-9417-4e50-83b7-602a48787939.png">
+  <img align="center" alt="Heitor-IDoCode" height="200" width="240" src="https://user-images.githubusercontent.com/102591958/163714502-c851a77b-2417-4281-8134-d2d9d33f77c6.png">
+  <img align="center" alt="Heitor-IdoCode" height="200" width="240" src="https://user-images.githubusercontent.com/102591958/163714522-bfa89267-0dd1-489f-97bc-033d303cad2b.png">
+  <img align="center" alt="Heitor-IDoCode" height="200" width="240" src="https://user-images.githubusercontent.com/102591958/163714599-e8bff774-43f6-494e-8cef-62e697dd9989.png">
+  <img align="center" alt="Heitor-IdoCode" height="200" width="240" src="https://user-images.githubusercontent.com/102591958/163714630-30ab422e-8000-4f25-bfd0-adaea5bc43de.png">
+  <img align="center" alt="Heitor-IDoCode" height="200" width="240" src="https://user-images.githubusercontent.com/102591958/163714654-ad7071cc-bc75-4140-b990-7d9a2fb79d4c.png">
+  <img align="center" alt="Heitor-TechWeek" height="200" width="240" src="https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/37c4532a-14b0-4d6d-930b-895b399bbb1a">
+  <img align="center" alt="Heitor-FinalistaFebrace" height="200" width="240" src="https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/7c46634b-5ea1-4c6c-b66a-3b43e637a0cd">
+  <img align="center" alt="Heitor-SemiFinalista2024" height="200" width="240" src="https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/eea92e63-3f8b-4989-87ce-d7783b8ff9e4">
+  <img align="center" alt="Heitor-SemiFinalista2023" height="200" width="240" src="https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/dd51effe-2579-4694-be59-63604fa8dc2c">
+  <img align="center" alt="Heitor-FestivalVidMtm" height="200" width="260" src="https://github.com/HeitorWestphal/HeitorWestphal/assets/102591958/8b95e963-4e33-4598-8d4a-b14e0c47310e">
  
 ## F1 in Schools:
 
