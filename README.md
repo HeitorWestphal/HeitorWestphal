@@ -8,13 +8,14 @@
 </div>
 
 ## About Me:
--  👶 17y
+-  👶 18y
 -  🔭 Student
 -  🌱 I’m currently learning JAVA
 -  🔧 Developing AI projects
 -  🤖 Robotiquer
 -  🧪 Scientist
--  💼 Search a job
+-  🎮 Working at Prota Games
+-  💼 I'm open to job offers
 
 
 ## 🛠️ Languages and Tools
